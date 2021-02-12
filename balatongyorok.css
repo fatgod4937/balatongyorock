@@ -34,8 +34,15 @@ table{
     align-items: center;
     background: url("../balatongyorock/panorama.jpg") center center no-repeat;
     background-size: cover;
+    height:250px;
 }
 td{
     border:1px solid black;
     
+}
+img{
+    float:right;
+}
+p{
+    font-weight:bold;
 }
