@@ -9,10 +9,22 @@ body{
 .left
 {
     float:left;
+    width:450px;
+    background-color:#5b9cea;
+    padding:20px;
     
 }
 .right{
     float:right;
+    width:450px;
+    background-color:#5b9cea;
+    padding:20px;
+}
+table{
+    text-align:center;
+    background-color:#b0d1f1;
+    border-collapse: collapse;
+    
 }
 
 .header {
@@ -22,4 +34,8 @@ body{
     align-items: center;
     background: url("../balatongyorock/panorama.jpg") center center no-repeat;
     background-size: cover;
+}
+td{
+    border:1px solid black;
+    
 }
