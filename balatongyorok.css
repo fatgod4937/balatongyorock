@@ -1,6 +1,8 @@
 body{
     height:100%;
     background-image: url("back.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
 }   
 .gagnamstyel{
     width:1000px;
