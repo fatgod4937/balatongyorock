@@ -6,3 +6,12 @@ body{
     width:1000px;
     margin:auto;
 }
+.left
+{
+    float:left;
+    
+}
+.right{
+    float:right;
+}
+
