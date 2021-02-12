@@ -26,7 +26,7 @@ table{
     text-align:center;
     background-color:#b0d1f1;
     border-collapse: collapse;
-    
+    margin-bottom:10px;
 }
 
 .header {
@@ -40,11 +40,15 @@ table{
 }
 td{
     border:1px solid black;
+    padding:5px;
     
 }
 img{
     float:right;
 }
 p{
+    font-weight:bold;
+}
+.bold{
     font-weight:bold;
 }
