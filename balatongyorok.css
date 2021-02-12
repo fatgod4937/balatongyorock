@@ -15,3 +15,11 @@ body{
     float:right;
 }
 
+.header {
+    min-width: 650px;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+    background: url("../balatongyorock/panorama.jpg") center center no-repeat;
+    background-size: cover;
+}
